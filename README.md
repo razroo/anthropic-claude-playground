@@ -31,3 +31,7 @@ For instance, to see how the `package.json` was created run `git log package.jso
 
 <img width="671" alt="Screenshot 2024-03-17 at 5 15 30 AM" src="https://github.com/razroo/anthropic-claude-playground/assets/8540141/c28169d7-cd7f-464a-b7d9-c19970823892">
 
+## Links
+
+1. Playground Core generated using https://razroo.com/finder/community/npm-8.5.5
+2. Anthropic Playground created using https://razroo.com/finder/razroo/anthropic-claude-8.5.5
