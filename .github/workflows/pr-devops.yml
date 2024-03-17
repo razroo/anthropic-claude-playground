@@ -1,0 +1,17 @@
+name: Run Unit Tests
+
+on:
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  DevOpsPRUnitTests:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build Private Dependencies And Test
+        run: |
+          npm install
+          npm run build
+          npm test -- -u
