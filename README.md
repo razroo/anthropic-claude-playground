@@ -25,7 +25,7 @@ That's it!
 This repo was built and created using Razroo. Razroo is Human Collective Intelligence. Meant to make it simple 
 for the entire world to share and integrate real world knowledge as scale. 
 
-To see documentation for any Razroo generated code run git log on the file itself. 
+To see documentation for any Razroo generated code run `git log` or `git blame` on the file itself. Can then open up the url to read more on documentation. 
 
 For instance, to see how the `package.json` was created run `git log package.json`
 
