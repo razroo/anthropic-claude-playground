@@ -15,7 +15,7 @@ Go to https://docs.anthropic.com/claude/docs/getting-access-to-claude
 1. To retrieve your Anthropic api key. 
 2. Copy the .env.example file as a .env 
 file. 
-3. Replace `ANTHROPIC_API_KEY` with you
+3. Replace `ANTHROPIC_API_KEY` with your
 Anthropic api key 
 4. Run e.g `ts-node src/claude/opus/create-message-opus.ts` to run opus api
 
