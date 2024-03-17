@@ -23,7 +23,7 @@ That's it!
 
 ## Repo Generated Using Razroo
 This repo was built and created using Razroo. Razroo is Human Collective Intelligence. Meant to make it simple 
-for the entire world to share and integrate real world knowledge as scale. 
+for the entire world to share and integrate real-world knowledge at scale. 
 
 To see documentation for any Razroo generated code run `git log` or `git blame` on the file itself. Can then open up the url to read more on documentation. 
 
