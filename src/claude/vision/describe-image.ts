@@ -29,10 +29,7 @@ async function describeImageUsingAi(userPrompt: string, base64Image: string) {
 }
 
 const base64Image = encodeBase64('src/images/cat-photo.png');
-const userPrompt = `Can you describe what the purpose of this web application is? 
-
-Use the main area only to determine this.
-`;
+const userPrompt = `Can you describe to what is happening in this photo?`;
 describeImageUsingAi(userPrompt, base64Image).then(data => {
   console.log('data');
   console.log(data);
