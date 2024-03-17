@@ -21,10 +21,13 @@ Anthropic api key
 
 That's it!
 
-## Repo Generate Using Razroo
+## Repo Generated Using Razroo
 This repo was built and created using Razroo. Razroo is Human Collective Intelligence. Meant to make it simple 
 for the entire world to share and integrate real world knowledge as scale. 
 
 To see documentation for any Razroo generated code run git log on the file itself. 
 
 For instance, to see how the `package.json` was created run `git log package.json`
+
+<img width="671" alt="Screenshot 2024-03-17 at 5 15 30 AM" src="https://github.com/razroo/anthropic-claude-playground/assets/8540141/c28169d7-cd7f-464a-b7d9-c19970823892">
+
